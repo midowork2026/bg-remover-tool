@@ -1,4 +1,2 @@
-streamlit==1.31.0
-rembg==2.0.53
-pillow==10.2.0
-onnxruntime==1.17.1
+streamlit
+rembg
